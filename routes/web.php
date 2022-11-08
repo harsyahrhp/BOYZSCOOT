@@ -25,9 +25,9 @@ Route::get('/Home', function () {
 Route::get('/vespa', function () {
     return view('vespa');
 });
-// Route::get('/vespa', function () {
-//     return view('vespa');
-// });
+Route::get('/aboutus', function () {
+    return view('aboutus');
+});
 
 route::get('/vespa' , [VespaController::class , 'index']);
 

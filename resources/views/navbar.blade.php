@@ -46,6 +46,7 @@
                 <div class="right">
                     <a href="/Home" class="nav-link">Home</a>
                     <a href="/vespa" class="nav-link">Stock</a>
+                    <a href="/aboutus" class="nav-link">About Us</a>
                 </div>
     </div>
 
